@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Switch_layout</string>
+    <string name="str_tv1">this is the first screen, click me to the second screen</string>
+    <string name="str_tv2">this is the second screen, click me to the first screen</string>
+</resources>
